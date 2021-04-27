@@ -1,4 +1,7 @@
 # Odin Project Test
 # Rock Paper Scissors Game
 
-Inital attempt at a rock paper scissors console game
+* Completley re-worked code, using object to store and retrieve selections.
+
+* Started to move over to buttons for user answers, this needs completing.
+
